@@ -1,15 +1,11 @@
-# 🚀 Welcome to your new awesome project!
+# Test Browser CSS Compatibility
 
-This project has been created using **webpack-cli**, you can now run
+You can simply connect "https://theyoung.github.io/browser-css-compatible-test/".
 
-```
-npm run build
-```
+You will see what properties are supported.
 
-or
+# You can build it yourself with "npm" environment.
 
-```
-yarn build
-```
+```npm run build```
 
-to bundle your application
+and open index.html file in docs directory.
