@@ -9,3 +9,6 @@ You will see what properties are supported.
 ```npm run build```
 
 and open index.html file in docs directory.
+
+# This Project does not support old browsers. 
+use https://theyoung.github.io/browser-css-compatible-test-react/". project
